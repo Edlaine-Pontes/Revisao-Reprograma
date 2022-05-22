@@ -1,3 +1,15 @@
+Oi Prof primeiro muito obrigada por aceitar esse desafio, sei que voce vai arrasar.
+
+Esse é o material que eu trabalho com as alunas para fazer uma revisao dos verbos (normalmente elas estao bem cansadas e a sindrome de impostora esta gritando) entao eu tento ser mais leve e divertida (é um momento para elas respirar).
+
+Eu começo fazendo uma apresentação pessoal (levo 1 hora falando sobre isso e deixando elas perguntarem) eu acredito que quase todas acham que é possivel fazer transição, que é preciso ser um genio para conseguir uma vaga, entao eu conto como uma mae de duas crianças, formada em psicologia com 37 anos e que nao sabia a diferença entre let e const...conseguiu fazer a transicação de carreira. 
+
+Se ficar a vontade compartilhe sua história e ajude a empoderar essas mulheres maravilhosas.
+
+Na aula eu vou pedindo para elas me guiarem, e vamos juntas fazendo cada etapa do processo....ao termino eu mostro como elas e nao eu construiram a solução.
+
+
+
 # Hello!
 
 Como você está lidando com esse processo de transição? 
